@@ -8,7 +8,6 @@ import re
 
 
 """
-file: q2.py
 CSCI-722 : Data Analytics Cognitive Comp
 Author: Rajkumar Lenin Pillai
 Description: This program implements the Zip's Law and Heap's Law on three text files and plots the result using the stop word list
