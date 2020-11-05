@@ -13,7 +13,6 @@ from nltk import *
 #import requests
 #nltk.download()
 """
-file: q1.py
 CSCI-722 : Data Analytics Cognitive Comp
 Author: Rajkumar Lenin Pillai
 Description: This program reads sentences from text file then calculates mean,standard deviation,minimum,maximum length of sentences, 
